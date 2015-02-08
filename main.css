@@ -10,7 +10,7 @@ p, h1, h2 {
 	color: #FFF;
 }
 
-a:visited, a:active {
+a:visited, a:active, a:link {
 	color: #FFF;
 }
 .content {

@@ -46,7 +46,8 @@ a:visited {
 	bottom: 20px;
 	right: 10px;
 	width: 450px;
-	height: 275px;
+	height: 250px;
 	border: 1px solid #FFF;
 	cursor: pointer;
+	margin: 0px auto;
 }

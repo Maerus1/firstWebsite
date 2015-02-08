@@ -1,7 +1,11 @@
 body {
-	background-image: url('bg.jpg');
+	background-color: #000;
 }
 
+#background {
+	position: fixed;
+	background-image: url('bg.jpg');
+}
 p, h1, h2 {
 	color: #FFF;
 }
@@ -10,22 +14,24 @@ a:visited {
 	color: #FFF;
 }
 .content {
-	font-size: 18px;
+	font-size: 20px;
 }
 #stage {
+	position: absolute;
 	background-color: rgba(0, 0, 0, 0.7);
 	width: 800px;
-	height: 600px;
-	overflow: auto;
+	height: auto;
+	overflow: visible;
 }
 
 #vids {
-	position: absolute;
-	top: 200px;
+	background-color: #000;
+	position: fixed;
+	top: 100px;
 	right: 20px;
 }
 
 #vid {
+	font-size: 18px;
 	display: block;
-	background-color: #000;
 }

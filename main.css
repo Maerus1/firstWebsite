@@ -35,3 +35,11 @@ a:visited {
 	font-size: 18px;
 	display: block;
 }
+
+#pics {
+	position: fixed;
+	bottom: 20px;
+	right: 10px;
+	width: 400px;
+	height: 300px;
+}

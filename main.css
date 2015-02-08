@@ -49,5 +49,5 @@ a:visited {
 	height: 250px;
 	border: 1px solid #FFF;
 	cursor: pointer;
-	margin: auto;
+	margin: auto 0px;
 }

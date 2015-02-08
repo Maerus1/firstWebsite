@@ -6,7 +6,6 @@ picArray[1] = "url('bioshock_rapture.png')";
 picArray[2] = "url('Bioshock_gameplay-screen.jpg')";
 var increase = 0;
 pics.backgroundImage = picArray[increase];
-pics.addEventListener("click", clickHandler, false);
 
 function clickHandler()
 {

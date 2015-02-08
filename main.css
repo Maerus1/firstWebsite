@@ -38,6 +38,8 @@ a:visited {
 }
 
 #pics {
+	background-image:; url('bioshock_rapture.png');
+	background-size: contain;
 	position: fixed;
 	bottom: 20px;
 	right: 10px;

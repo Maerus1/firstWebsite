@@ -1,0 +1,31 @@
+body {
+	background-image: url('bg.jpg');
+}
+
+p, h1, h2 {
+	color: #FFF;
+}
+
+a:visited {
+	color: #FFF;
+}
+.content {
+	font-size: 18px;
+}
+#stage {
+	background-color: rgba(0, 0, 0, 0.7);
+	width: 800px;
+	height: 600px;
+	overflow: auto;
+}
+
+#vids {
+	position: absolute;
+	top: 200px;
+	right: 20px;
+}
+
+#vid {
+	display: block;
+	background-color: #000;
+}

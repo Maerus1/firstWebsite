@@ -39,6 +39,7 @@ a:visited {
 
 #pics {
 	background-image: url('bioshock_rapture.png');
+	background-color: #000;
 	background-size: contain;
 	position: fixed;
 	bottom: 20px;
@@ -46,4 +47,5 @@ a:visited {
 	width: 400px;
 	height: 300px;
 	border: 1px solid #FFF;
+	cursor: pointer;
 }
